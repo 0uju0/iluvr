@@ -1,0 +1,18 @@
+header
+{
+    box-sizing: border-box;
+    position: fixed;
+    border:none;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+    width: 100%;
+} 
+.cabeçalho
+{ 
+    padding: 30px;
+}
+.cadastro
+{
+    padding-right: 40px 40px 40px 0;
+}
